@@ -1,0 +1,26 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #7be0dd;
+    transition: 1s;
+}
+
+#hex {
+    text-transform: uppercase;
+    color: #101010;
+    font-size: 2rem;
+    font-family: 'Poppins', sans-serif;
+    margin: 20px;
+}
+
+
+
+
